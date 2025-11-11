@@ -17,7 +17,7 @@ LinuC Level3（304）を取得し、体系的な知識を実践的なスキル�
 
 「役割の分離（Web/DNS/DB）」「多層防御（FW/DB認証）」「DNSの権限委譲」の3点を意識して設計しました。
 
-![system_architecture_diagram.png]
+![system_architecture_diagram.drawio.png]
 
 
 <img width="739" height="897" alt="system_architecture_diagram drawio" src="https://github.com/user-attachments/assets/df20969b-c97b-41a0-9b1a-2d873304a78c" />
